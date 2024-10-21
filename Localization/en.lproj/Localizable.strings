@@ -1,0 +1,9 @@
+/* 
+  Localizable.strings
+  Localization
+
+  Created by ali on 30/09/2024.
+  
+*/
+
+"message" = "Hello World";
